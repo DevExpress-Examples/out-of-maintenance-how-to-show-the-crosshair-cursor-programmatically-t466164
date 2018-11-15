@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ShowCrosshairExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ShowCrosshairExample/MainWindow.xaml))
+* **[MainWindow.xaml.cs](./CS/ShowCrosshairExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/ShowCrosshairExample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: show the Crosshair Cursor programmatically
 
 
